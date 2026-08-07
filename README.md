@@ -37,6 +37,40 @@ Built with a focus on performance, simplicity, and user privacy, it allows you t
 
 ---
 
+## Screenshots
+
+<!-- Add your app screenshots here -->
+<p align="center">
+  <img src="screenshot1.png" width="200" />
+  <img src="screenshot2.png" width="200" />
+  <img src="screenshot3.png" width="200" />
+</p>
+
+> Replace `screenshot1.png`, `screenshot2.png`, and `screenshot3.png` with your actual screenshot files.
+
+---
+
+## Supported Platforms
+
+CineFetch Pro currently supports downloading videos from popular platforms such as:
+
+- YouTube  
+- Facebook  
+- Instagram  
+- Twitter / X  
+- TikTok  
+- And more...
+
+---
+
+## System Requirements
+
+- **Android Version**: 8.0 (Oreo) and above  
+- **Storage**: Minimum 50 MB free space  
+- **Internet**: Required for downloading  
+
+---
+
 ## Tech Stack
 
 <p align="left">
@@ -67,17 +101,44 @@ Get the latest version of **CineFetch Pro** from the official GitHub releases:
 
 ---
 
+## Changelog
+
+### v2.1.0
+- Improved download speed  
+- UI refinements  
+- Bug fixes and performance improvements  
+
+### v2.0.0
+- Major performance upgrade  
+- Better stability  
+
+---
+
+## Disclaimer
+
+CineFetch Pro is intended for downloading videos that you have the legal right to access and download.  
+Please respect copyright laws and the terms of service of the platforms you use.  
+The developer is not responsible for any misuse of this application.
+
+---
+
 ## Contributing
 
 Contributions are welcome!  
 
 If you would like to improve CineFetch Pro:
-- Fork the repository
-- Create a new branch
-- Make your changes
-- Submit a pull request
+- Fork the repository  
+- Create a new branch  
+- Make your changes  
+- Submit a pull request  
 
 You can also open an issue for bug reports or feature suggestions.
+
+---
+
+## Support
+
+If you face any issues or have suggestions, feel free to open an issue on this repository.
 
 ---
 
