@@ -1,32 +1,62 @@
-# 🎬 CineFetch Pro
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=008080&size=50&lines=CineFetch+Pro;Fastest+Video+Downloader+for+Android" alt="CineFetch Pro" />
+</p>
 
-A powerful cross-platform video fetching and downloading application built with **Python** and **Flet**. 
-
----
-
-## 🚀 Features
-* **Seamless Downloader:** Fetch and download videos quickly.
-* **Modern UI:** Clean user interface with Dark Mode support and custom settings preferences.
-* **Optimized for Android:** Built specifically for modern 64-bit Android devices (`arm64-v8a`).
-* **Local Storage:** Automatically organizes downloaded media locally.
+<p align="center">
+  <a href="https://github.com/jawadahmadliaqat-dot/CineFetch-Pro/releases"><img src="https://img.shields.io/github/downloads/jawadahmadliaqat-dot/CineFetch-Pro/total?style=for-the-badge&logo=github&color=2ecc71" alt="Downloads"></a>
+  <a href="https://github.com/jawadahmadliaqat-dot/CineFetch-Pro/releases"><img src="https://img.shields.io/github/v/release/jawadahmadliaqat-dot/CineFetch-Pro?style=for-the-badge&logo=android&color=3498db" alt="Latest Release"></a>
+  <img src="https://img.shields.io/github/license/jawadahmadliaqat-dot/CineFetch-Pro?style=for-the-badge&color=e74c3c" alt="License">
+</p>
 
 ---
 
-## 📱 Screenshots
-<img width="720" height="1581" alt="Screenshot_20260805-173729" src="https://github.com/user-attachments/assets/154b343b-91b5-4442-a638-d3b3dbcc6559" />
-<img width="720" height="1514" alt="Screenshot_20260805-173700" src="https://github.com/user-attachments/assets/082270a4-63dd-4b6e-8504-27510093c640" />
-<img width="720" height="1500" alt="Screenshot_20260805-173713" src="https://github.com/user-attachments/assets/b1f89dcd-b77a-4492-9082-6359fe5f1c93" />
+## 📖 About CineFetch Pro
 
+CineFetch Pro is a powerful, lightweight, and fast video fetching application designed exclusively for Android devices. It allows users to easily download videos from various supported platforms with just a few clicks.
+
+## ✨ Key Features
+
+*   🚀 **Ultra-Fast Downloads**: Leverages advanced download technology for maximum speed.
+*   🤖 **Android Native**: Developed with native Android components for smooth performance.
+*   🛡️ **Privacy First**: No user data tracking or unnecessary permissions.
+*   📱 **Intuitive UI**: Modern and clean interface for a great user experience.
+*   ✨ **Free & Open Source**: Completely free to use.
+
+## 🛠️ Built With (Tech Stack)
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=android,kotlin,git,github,vscode" alt="Skills" />
+</p>
 
 ---
 
-## 📥 How to Install & Download
-1. Go to the **Releases** section on the right side of this repository.
-2. Download the latest `.apk` or `.zip` file (`CineFetch-Pro-arm64-v8a`).
-3. Install it on your Android phone and enjoy!
+## 📥 Download Latest APK
+
+Get the latest version of CineFetch Pro from the official GitHub releases.
+
+<p align="center">
+  <a href="https://github.com/jawadahmadliaqat-dot/CineFetch-Pro/releases/download/v2.1.0/CineFetch-Pro.apk">
+    <img src="https://img.shields.io/badge/🚀_Download_Now-v2.1.0-success?style=for-the-badge&logo=android&colorA=27ae60&colorB=219653&animated=true" alt="Download Button">
+  </a>
+</p>
 
 ---
 
-## 🛠️ Built With
-* **Python** - Core programming language
-* **Flet** - UI framework for Flutter/Python
+## ⚙️ How to Install?
+
+1.  Click the green **"Download Now"** button above to get the `.apk` file.
+2.  If your phone asks for permission, enable **"Install from Unknown Sources"** in your security settings.
+3.  Tap on the downloaded APK file and select **Install**.
+4.  Open the app and start fetching videos!
+
+---
+
+## 🤝 Contributing
+
+Contributions are always welcome! If you'd like to improve CineFetch Pro, please fork the repository and create a pull request, or open an issue with suggestions.
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jawadahmadliaqat-dot&style=flat-square&color=008080" alt="Profile Views" />
+</p>
