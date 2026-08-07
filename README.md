@@ -37,16 +37,7 @@ Built with a focus on performance, simplicity, and user privacy, it allows you t
 
 ---
 
-## Screenshots
 
-<!-- Add your app screenshots here -->
-<p align="center">
-  <img src="screenshot1.png" width="200" />
-  <img src="screenshot2.png" width="200" />
-  <img src="screenshot3.png" width="200" />
-</p>
-
-> Replace `screenshot1.png`, `screenshot2.png`, and `screenshot3.png` with your actual screenshot files.
 
 ---
 
