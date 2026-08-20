@@ -206,8 +206,3 @@ This project is open source and available under the repository license.
 
 ---
 
-## ✅ Important Note
-
-The previous version used unsupported custom CSS in a GitHub README, which rendered as raw code instead of styled content. This version is rebuilt for GitHub compatibility, so it will display correctly and still look modern, premium, and clean.
-
-
